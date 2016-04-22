@@ -1,0 +1,13 @@
+Host not reachable
+name: discovercard.com, ip: 104.90.65.233, rtt = 26.8230438232 ms, hops = 16, distance: 874.608539076
+name: reddit.com, ip: 198.41.209.142, rtt = 23.8630771637 ms, hops = 14, distance: 3482.24399834
+name: golf.seedhost.eu, ip: 37.48.111.159, rtt = 111.830949783 ms, hops = 13, distance: 6274.65978081
+name: forkware.com, ip: 104.251.217.77, rtt = 42.4060821533 ms, hops = 11, distance: 2947.14709303
+name: netjam.xyz, ip: 162.243.231.105, rtt = 36.5099906921 ms, hops = 13, distance: 642.440909509
+name: sketchoff.xyz, ip: 162.243.24.136, rtt = 36.4770889282 ms, hops = 13, distance: 642.440909509
+name: java.com, ip: 104.70.48.90, rtt = 36.7939472198 ms, hops = 7, distance: 874.608539076
+Host not reachable
+name: morningpoopsquad.horse, ip: 104.236.198.105, rtt = 40.8918857574 ms, hops = 13, distance: 642.440909509
+name: www.google.com, ip: 172.217.2.196, rtt = 39.3290519714 ms, hops = 14, distance: 3467.84959872
+name: google.co.in, ip: 216.58.192.163, rtt = 23.6639976501 ms, hops = 11, distance: 3467.84959872
+name: djpunjab.info, ip: 62.210.86.224, rtt = 159.519910812 ms, hops = 13, distance: 6286.02171996
